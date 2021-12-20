@@ -22,3 +22,6 @@ We can make 4 observations regarding the output provided.
 
 ![](Queries/tab_2.png)
 
+## Summary
+
+In a close future, 90 398 employees will retire from Pewlett_Hackard. This is a huge number of employees and the company has to make sure that it has enough mentors to fill that void. As we discussed earlier, it feels like there is not enough mentors in some departments (i.e : senior engineering). However, a ratio of 57 assistant engineers (mentors) to 1761 assistant engineers retiring is more than adequate to prepare the corporation for that silver tsunami. In conclusion, some departments are better equiped than others to face that tsunami. 
