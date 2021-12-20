@@ -14,4 +14,4 @@ We can make 4 observations regarding the output provided.
 
 2- On the other hand, a lot of senior engineers might retiring soon. Even if Pewlett_Hackard is a large corporation, having 29 414 senior engineers close from retiring is worrisome. For more details about potential retiring employees, see the figure below. 
 
-![](Resources/tableau_1.jpg)
+![](Queries/tab_1.png)
